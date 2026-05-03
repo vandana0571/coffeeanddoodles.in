@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Profile image placeholder</title>
+  <desc id="desc">A minimal abstract portrait placeholder for Vandana Sharma.</desc>
+  <rect width="900" height="900" fill="#E8EFE5"/>
+  <circle cx="450" cy="330" r="155" fill="#8A5B31"/>
+  <path d="M236 800c35-176 135-268 214-268s179 92 214 268H236Z" fill="#286A46"/>
+  <path d="M291 774c37-110 91-165 159-165s122 55 159 165H291Z" fill="#F8FBF6" opacity=".32"/>
+  <path d="M290 344c32-136 109-204 230-204 92 0 166 48 220 144-63-31-139-24-229 21-78 39-152 52-221 39Z" fill="#18211B"/>
+  <circle cx="391" cy="333" r="15" fill="#18211B"/>
+  <circle cx="508" cy="333" r="15" fill="#18211B"/>
+  <path d="M390 416c37 29 78 29 119 0" fill="none" stroke="#18211B" stroke-width="14" stroke-linecap="round"/>
+  <path d="M159 220c78-92 180-138 306-138 121 0 219 42 294 126" fill="none" stroke="#F2BF85" stroke-width="18" stroke-linecap="round" opacity=".62"/>
+</svg>

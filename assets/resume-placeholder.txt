@@ -1,0 +1,6 @@
+Replace this placeholder with Vandana Sharma's resume PDF.
+
+Suggested filename:
+vandana-sharma-resume.pdf
+
+After adding the PDF, update the resume link in index.html.

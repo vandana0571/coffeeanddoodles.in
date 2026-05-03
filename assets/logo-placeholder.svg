@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Vandana Sharma logo placeholder</title>
+  <desc id="desc">A circular placeholder monogram with the initials VS.</desc>
+  <rect width="120" height="120" rx="60" fill="#286A46"/>
+  <circle cx="60" cy="60" r="48" fill="#F8FBF6" opacity=".18"/>
+  <path d="M30 37h12l18 48 18-48h12L66 95H54L30 37Z" fill="#F8FBF6"/>
+  <path d="M78 39c-12-8-30-2-30 10 0 17 32 10 32 27 0 13-19 19-35 9" fill="none" stroke="#F2BF85" stroke-width="9" stroke-linecap="round"/>
+</svg>
